@@ -2,8 +2,8 @@
 
 ## Versions
 
-firebase-tools: v20.19.1<br>
-python: v3.12<br>
+firebase-tools: 14.4.0<br>
+python: v3.12.4<br>
 
 ## Steps to reproduce
 
